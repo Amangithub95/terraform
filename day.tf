@@ -6,5 +6,5 @@ variable "filename" {
 default = "cat.txt"
 }
 variable "content" { 
-default = "i love cats"
+default = "i like cats"
 }
